@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <h2>새로운 기능 추가</h2>
     <div>{{ board.title }}</div>
   </div>
 </template>
